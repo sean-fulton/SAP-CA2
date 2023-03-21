@@ -2,7 +2,7 @@
 # Main
 
 
-# create a docker network with mysql and phpadmin.
+## Create a docker network with mysql and phpadmin.
 
 ```
 docker network create mydockernetwork
